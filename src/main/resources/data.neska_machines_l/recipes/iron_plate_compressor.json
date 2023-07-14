@@ -1,0 +1,13 @@
+{
+  "type": "neska_machines:compressing",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result":{
+    "item": "neska_machines:iron_plate"
+  },
+  "quantity": 1,
+  "energy": 100
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures" : {
+    "north": "neska_machines_l:block/temp/energy_output",
+    "south": "neska_machines_l:block/temp/sides",
+    "east": "neska_machines_l:block/temp/working_state_off",
+    "west": "neska_machines_l:block/temp/sides",
+    "up": "neska_machines_l:block/temp/sides",
+    "down": "neska_machines_l:block/temp/sides",
+    "particle": "neska_machines_l:block/temp/sides"
+  }
+}

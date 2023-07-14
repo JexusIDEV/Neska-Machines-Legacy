@@ -1,0 +1,16 @@
+{
+  // Blocks
+  "block.neska_machines.compressor": "Compressor Machine",
+  "block.neska_machines.neska_worktable": "Neska Worktable",
+
+  // Containers.
+  "container.neska_machines.block.container_test": "Container Test",
+  "container.neska_machines.item.container_test": "Container Test",
+
+  "container.neska_machines.compressor": "Compressor",
+  "container.neska_machines.block.alloy_smelter": "Alloy Smelter",
+  "container.neska_machines.neska_worktable": "Neska WorkTable",
+
+  // Misc
+  "itemGroup.neska_machines": "Neska Machines"
+}

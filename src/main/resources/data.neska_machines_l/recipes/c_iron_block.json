@@ -1,0 +1,12 @@
+{
+  "type": "neska_machines_l:compressing",
+  "ingredients": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "minecraft:iron_block"
+  },
+  "energyTick": 5,
+  "maxProgress": 30,
+  "count": 9
+}

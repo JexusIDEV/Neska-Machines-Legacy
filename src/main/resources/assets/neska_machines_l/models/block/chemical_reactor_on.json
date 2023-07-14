@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures" : {
+    "front": "neska_machines_l:block/temp/working_state_on",
+    "side": "neska_machines_l:block/temp/sides",
+    "particle": "neska_machines_l:block/temp/sides"
+  }
+}
